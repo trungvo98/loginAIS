@@ -1,0 +1,11 @@
+E:\UIT Documents\HK-8\HTTT Acounting\AccountingIS\AccountingIS\bin\Debug\AccountingIS.exe.config
+E:\UIT Documents\HK-8\HTTT Acounting\AccountingIS\AccountingIS\bin\Debug\AccountingIS.exe
+E:\UIT Documents\HK-8\HTTT Acounting\AccountingIS\AccountingIS\bin\Debug\AccountingIS.pdb
+E:\UIT Documents\HK-8\HTTT Acounting\AccountingIS\AccountingIS\obj\Debug\AccountingIS.csprojAssemblyReference.cache
+E:\UIT Documents\HK-8\HTTT Acounting\AccountingIS\AccountingIS\obj\Debug\AccountingIS.frmLogin.resources
+E:\UIT Documents\HK-8\HTTT Acounting\AccountingIS\AccountingIS\obj\Debug\AccountingIS.Properties.Resources.resources
+E:\UIT Documents\HK-8\HTTT Acounting\AccountingIS\AccountingIS\obj\Debug\AccountingIS.csproj.GenerateResource.cache
+E:\UIT Documents\HK-8\HTTT Acounting\AccountingIS\AccountingIS\obj\Debug\AccountingIS.csproj.CoreCompileInputs.cache
+E:\UIT Documents\HK-8\HTTT Acounting\AccountingIS\AccountingIS\obj\Debug\AccountingIS.exe
+E:\UIT Documents\HK-8\HTTT Acounting\AccountingIS\AccountingIS\obj\Debug\AccountingIS.pdb
+E:\UIT Documents\HK-8\HTTT Acounting\AccountingIS\AccountingIS\obj\Debug\AccountingIS.Form1.resources
